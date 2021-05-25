@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+img {
+  display: none;
+}
+
+#gameScreen {
+  border: 1px solid black;
+}
